@@ -4,8 +4,7 @@ Per i motivi appena illustrati abbiamo pensato di progettare, attraverso l’uso
 
 • Rilevamento dei marciapiedi e dei semafori (riconoscimento dei colori).
 
-• Rilevamento del distanziamento sociale, in modo da permettere al soggetto che sta usando l’ap-
-plicazione di mantenere un metro di distanza dalle altre persone.
+• Rilevamento del distanziamento sociale, in modo da permettere al soggetto che sta usando l’applicazione di mantenere un metro di distanza dalle altre persone.
 
 Le due funzioni sono accompagnate da un sistema vocale in grado di segnalare le rilevazioni.
 Si vuole proporre una valida opzione per aiutare le persone non vedenti ad affrontare con maggiore serenità questo periodo, abbattendo per loro, dove si può, le limitazioni motorie, rendendo quindi gli spostamenti sicuri e a norma di legge, negli spazi aperti o nei luoghi chiusi come edifici pubblici e luoghi di ristoro.
